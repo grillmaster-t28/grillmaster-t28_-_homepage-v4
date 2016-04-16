@@ -5,5 +5,5 @@ This is my new version (4) of my start/homepage. Compare to the last version, th
 Currently, the image isn't the same as the ones in my website. I will try and find some creative common/public domain images to use for the github version.
 
 # Demo
-Mirror #1: https://grillmaster-t28.github.io/startpage/home.html
-Mirror #2: http://grillmaster.t28.net/scripts/homepage/homepage_v4.html
+* Mirror #1: https://grillmaster-t28.github.io/startpage/home.html
+* Mirror #2: http://grillmaster.t28.net/scripts/homepage/homepage_v4.html
