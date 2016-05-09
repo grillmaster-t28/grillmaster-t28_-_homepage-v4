@@ -8,4 +8,4 @@ Currently, the image isn't the same as the ones in my website. I will try and fi
 
 # Demo
 * Mirror #1: https://grillmaster-t28.github.io/startpage/home.html
-~~* Mirror #2: http://grillmaster.t28.net/scripts/homepage/homepage_v4.html~~
+* ~~Mirror #2: http://grillmaster.t28.net/scripts/homepage/homepage_v4.html~~
