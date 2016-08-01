@@ -1,5 +1,5 @@
 # grillmaster-t28_-_homepage-v4
-This is my new version (4) of my start/homepage. Compare to the last version, this one features a search box and better and more useable model.
+This is my new version (4.1) of my start/homepage. Compare to the last version, this one features a search box and better and more useable model.
 
 ![alt text](https://grillmaster-t28.github.io/startpage_screen.png "Startpage preview")
 
@@ -8,4 +8,12 @@ Currently, the image isn't the same as the ones in my website. I will try and fi
 
 # Demo
 * Mirror #1: https://grillmaster-t28.github.io/startpage/home.html
-* ~~Mirror #2: http://grillmaster.t28.net/scripts/homepage/homepage_v4.html~~
+
+# Changelog
+## v4.1
+* Transparent background for search box
+* Changed from DuckDuckGo Lite to StartPage (Search)
+* Changed from 8chan to Contents and Trackers (Links)
+* Added images for repository
+* Opacity lowered for link boxes
+
