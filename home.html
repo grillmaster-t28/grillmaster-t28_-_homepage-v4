@@ -12,12 +12,27 @@
         * Colour scheme based on Spacegray.vim: https://github.com/ajh17/Spacegray.vim
         *
         * Homepage by: grillmaster-t28
-        * Version: v4.1
+        * Version: v4.2
         * Website: http://grillmaster.net16.net/
-        * Last Updated: 2016 Aug 01
+        * Last Updated: 2016 Aug 14
         * License: Public Domain
         *
         * No Javascript is required to use this homepage
+        *
+        * The original DuckDuckGo (Lite) is still there, you just need to uncomment it and comment-on/delete
+        * the startpage one.
+        *
+        * 4.2 - 
+        *       Fixed spelling error: Libary -> Library
+        *       Changed the 4chan boards
+        *       Added soundcloud, Dan Pollock (known for his host file), and Postimage
+        *
+        * 4.1 - 
+        *       Transparent background for search box
+        *       Changed from DuckDuckGo Lite to StartPage (Search)
+        *       Changed from 8chan to Contents and Trackers (Links)
+        *       Added images for repository
+        *       Opacity lowered for link boxes
         */
 
         img {
@@ -179,9 +194,9 @@
 
 <body>
 <div class="search">
-    <form class="searchForm" method="POST" action="https://www.startpage.com/do/search?prfh=design_typeEEE1N1Nlang_homepageEEEs/black/eng/N1Nresults_countEEE1N1Nlanguage_uiEEEenglishN1Ndisable_open_in_new_windowEEE1N1NlanguageEEEenglishN1NsslEEE1N1Ndisable_family_filterEEE1N1Nnum_of_resultsEEE20N1Ndisable_video_family_filterEEE1N1NsuggestionsEEE0N1Ngeo_mapEEE1N1N">
+    <form class="searchForm" method="POST" action="https://www.startpage.com/do/search">
         <input class="searchInput" placeholder="Search StartPage" type="text" name="q" autofocus>
-        <!--
+        <!-- 
     <form class="searchForm" method="GET" action="https://duckduckgo.com/lite/?kp=-1&kl=uk-en&kaf=1&q=">
         <input class="searchInput" placeholder="Search DuckDuckGo" type="text" name="q" autofocus>
         -->
@@ -193,10 +208,10 @@
 <div id="chan" class="section">
     <h2 id="t"><a href="https://www.4chan.org/">4chan</a></h2>
         <ul>
-            <li><a href="https://boards.4chan.org/ck/catalog">/ck/</a></li>
-            <li><a href="https://boards.4chan.org/fit/catalog">/fit/</a></li>
+            <li><a href="https://boards.4chan.org/a/catalog">/a/</a></li>
             <li><a href="https://boards.4chan.org/g/catalog">/g/</a></li>
             <li><a href="https://boards.4chan.org/pol/catalog">/pol/</a></li>
+            <li><a href="https://boards.4chan.org/toy/catalog">/toy/</a></li>
             <li><a href="https://boards.4chan.org/w/catalog">/w/</a></li>
             <li><a href="https://boards.4chan.org/wg/catalog">/wg/</a></li>
         </ul>
@@ -231,6 +246,8 @@
             <li><a href="http://cat-v.org/">Cat-v</a></li>
             <li><a href="http://www.catb.org/esr/">Eric S. Raymond</a></li>
             <li><a href="http://waifu2x.udp.jp/">Waifu2x</a></li>
+            <li><a href="http://someonewhocares.org/">Dan Pollock</a></li>
+            <li><a href="https://soundcloud.com/">SoundCloud</a></li>
         </ul>
 </div>
 </ul><ul>
@@ -243,7 +260,7 @@
 </div>
 </ul><ul>
 <div id="books" class="section">
-    <h2>Libary/Books</h2>
+    <h2>Library/Books</h2>
         <ul>
             <li><a href="http://bookzz.org/">BookZZ</a></li>
             <li><a href="http://g.sicp.me/books/">Gentooman Libary</a></li>
@@ -256,6 +273,7 @@
         <ul>
             <li><a href="https://cocaine.ninja/">Cocaine Ninja</a></li>
             <li><a href="https://imgur.com/">Imgur</a></li>
+            <li><a href="https://postimage.org/">PostImage</a></li>
             <li><a href="https://file.pizza/">FilePizza</a></li>
             <li><a href="https://ghostbin.com/">Ghostbin</a></li>
         </ul>
